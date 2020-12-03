@@ -15,7 +15,7 @@
 element.scsrollIntoView({behavior: 전환에니메이션을 정의, block: 수직 정렬을 정의, inline: 수평을 정렬을 정함})
 ```
 
-## 출처
+## 참고
 
 #### Scroll: https://developer.mozilla.org/ko/docs/Web/API/Element/scrollIntoView
 #### 이미지 출처: by드림코더 엘리
